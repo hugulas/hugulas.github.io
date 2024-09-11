@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Performance Modeling and Design of Computer Systems: Queueing Theory in Action 老工程师注解版"
+permalink: /queueing/
+categories: 计算机系统的性能建模与设计
+---
+# Performance Modeling and Design of Computer Systems: Queueing Theory in Action 老工程师注解版
+
+计算机系统的性能建模与设计这本书有[中文翻译版](https://book.douban.com/subject/35186624/). 但是豆瓣对书的评价褒贬不一. 所以我决定先用大模型翻译这本书, 人工校订, 然后结合我18M 19年的性能工作经验, 从工程实际出发加上自己的理解, 希望可以让使用中文的同行有所收获.
+
+翻译稿正在生成校订中, 如果您发现任何疑问, 欢迎开[github issue](https://github.com/hugulas/Performance-Blog/issues)和我讨论, 我的邮箱hugulas at 163.com.
+
+1. [计算机系统的性能建模与设计](questions)
+2. [前言](preface)
+3. [第一部分 排队论介绍](00part1)
+   - [第一章 分析建模威力的激励性示例](01motivating)
+   - [第二章 排队论的基本术语](02terminology)

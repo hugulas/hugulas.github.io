@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 性能工程师
+title: 性能工程师的小栈
 email: hugulas@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   在IBM从事性能工作19年, 在Power和Z的每一代升级中不断学习, 把我的所思所想在这里分享
-baseurl: "https://hugulas.github.io"
+# baseurl: "https://hugulas.github.io"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hugulas
 
